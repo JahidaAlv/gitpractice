@@ -6,15 +6,9 @@ public class Main {
 
         System.out.println("Jahida is coding");
         System.out.println("Power");
-
-
         System.out.println("New Code Added");
         System.out.println("New Code Added");
         System.out.println("New Code Added");
         System.out.println("New Code Added");
-        System.out.println("New Code Added...");
-
-
-        System.out.println("Jahida ali");
     }
 }
