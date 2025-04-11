@@ -8,7 +8,12 @@ public class Main {
         System.out.println("Hello, Jahida");
         System.out.println("Jahida is coding");
         System.out.println("Power");
+
         System.out.println("Kuch bhi");
+
+        System.out.println("New Code Added");
+
+
 
 
 
