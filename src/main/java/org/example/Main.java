@@ -3,19 +3,9 @@ package org.example;
 public class Main {
     public static void main(String[] args) {
 
-        System.out.println("Hello, World!");
-        System.out.println("Hello, Powerhouse!");
-        System.out.println("Hello, Jahida");
-        System.out.println("Jahida is coding");
-        System.out.println("Power");
-
-        System.out.println("Kuch bhi");
-
-        System.out.println("New Code Added");
-
-
-
-
+        System.out.println("Jahida alv");
+        System.out.println("Jahida alii");
+        System.out.println("alv jahida..");
 
     }
 }
